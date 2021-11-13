@@ -1,0 +1,26 @@
+*,*::after,*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  /* color scheme */
+
+  /* light mode */
+  --light-base: #B8E2F2;
+  --light-accent: #0B0225;
+
+  /* neutrals */
+  --light-gray: #808080;
+  --dark-gray: #111111;
+  --white: #FFFFFF;
+
+  /* dark mode */
+  --dark-base: #0B0225;
+  --dark-accent: #04D9FF;
+
+  /* base styles */
+}
+body {
+  
+}
